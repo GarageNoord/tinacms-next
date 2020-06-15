@@ -1,6 +1,6 @@
 ---
 date: '2019-07-10T07:00:00.000Z'
-title: Getting Started with the demo
+title: Getting Started and testing new demo
 position: 0
 ---
 Tina Starter Alpaca is a NextJS documentation responsive theme, easily customizable and hosted on Vercel.
